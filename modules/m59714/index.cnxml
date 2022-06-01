@@ -1,0 +1,21 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Triple Integrals</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59714</md:content-id>
+  <md:title>Triple Integrals</md:title>
+  <md:abstract><list>
+<item>Recognize when a function of three variables is integrable over a rectangular box.</item>
+<item>Evaluate a triple integral by expressing it as an iterated integral.</item>
+<item>Recognize when a function of three variables is integrable over a closed and bounded region.</item>
+<item>Simplify a calculation by changing the order of integration of a triple integral.</item>
+<item>Calculate the average value of a function of three variables.</item>
+</list></md:abstract>
+  <md:uuid>fa051fa6-88cb-40fe-8018-8da9bee804aa</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1171007122829">Sentence</para>
+</content>
+
+</document>

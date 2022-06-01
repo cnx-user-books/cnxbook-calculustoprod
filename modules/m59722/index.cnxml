@@ -1,0 +1,18 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Change of Variables in Multiple Integrals</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59722</md:content-id>
+  <md:title>Change of Variables in Multiple Integrals</md:title>
+  <md:abstract><list>
+<item>Determine the image of a region under a given transformation of variables.</item>
+<item>Compute the Jacobian of a given transformation.</item>
+<item>Evaluate a double integral using a change of variables.</item>
+<item>Evaluate a triple integral using a change of variables.</item>
+</list></md:abstract>
+  <md:uuid>7f052977-322f-4379-ae62-bdd1639b70ad</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1171029640654"/>
+</content>
+</document>

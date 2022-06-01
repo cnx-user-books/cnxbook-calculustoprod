@@ -1,0 +1,19 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Double Integrals in Polar Coordinates</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59712</md:content-id>
+  <md:title>Double Integrals in Polar Coordinates</md:title>
+  <md:abstract><list>
+<item>Recognize the format of a double integral over a polar rectangular region.</item>
+<item>Evaluate a double integral in polar coordinates by using an iterated integral.</item>
+<item>Recognize the format of a double integral over a general polar region.</item>
+<item>Use double integrals in polar coordinates to calculate areas and volumes.</item>
+</list></md:abstract>
+  <md:uuid>cc1be954-5c4d-4fb6-8698-749de9d99d0a</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id5710232"/>
+</content>
+</document>

@@ -1,0 +1,35 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11962</md:content-id>
+    <md:title>calculustoprod</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>1b448968-e8d6-41d0-8f87-e8ce6b3cd5cc</md:uuid>
+<md:slug>calculustoprod</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Multiple Integration</md:title>
+      <col:content>
+        <col:module document="m59708"/>
+        <col:module document="m59709"/>
+        <col:module document="m59712"/>
+        <col:module document="m59714"/>
+        <col:module document="m59722"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Vector Calculus</md:title>
+      <col:content>
+        <col:module document="m59723"/>
+        <col:module document="m59726"/>
+        <col:module document="m59727"/>
+        <col:module document="m59731"/>
+        <col:module document="m59735"/>
+        <col:module document="m59737"/>
+        <col:module document="m59738"/>
+        <col:module document="m59739"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

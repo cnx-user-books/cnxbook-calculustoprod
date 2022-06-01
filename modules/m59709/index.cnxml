@@ -1,0 +1,19 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Double Integrals over Rectangular Regions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59709</md:content-id>
+  <md:title>Double Integrals over Rectangular Regions</md:title>
+  <md:abstract><list>
+<item>Recognize when a function of two variables is integrable over a rectangular region.</item>
+<item>Recognize and use some of the properties of double integrals.</item>
+<item>Evaluate a double integral over a rectangular region by writing it as an iterated integral.</item>
+<item>Use a double integral to calculate the area of a region, volume under a surface, or average value of a function over a plane region.</item>
+</list></md:abstract>
+  <md:uuid>3b658b6c-0bf8-488f-8c58-e6f974f635a2</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1169523682399"/>
+</content>
+</document>

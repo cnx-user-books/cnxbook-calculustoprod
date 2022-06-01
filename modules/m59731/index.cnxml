@@ -1,0 +1,18 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Green’s Theorem</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59731</md:content-id>
+  <md:title>Green’s Theorem</md:title>
+  <md:abstract><list>
+<item>Apply the circulation form of Green’s theorem.</item>
+<item>Apply the flux form of Green’s theorem.</item>
+<item>Calculate circulation and flux on more general regions.</item>
+</list></md:abstract>
+  <md:uuid>099c59c8-c96b-4933-b8c2-1a790dc8d483</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id3208329"/>
+</content>
+</document>
